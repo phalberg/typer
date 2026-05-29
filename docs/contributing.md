@@ -1,6 +1,6 @@
 # Development - Contributing
 
-First, you might want to see the basic ways to [help Typer and get help](https://typer.tiangolo.com/help-typer/).
+First, you might want to see the basic ways to [help Typer and get help](docs/help-typer.md#)).
 
 ## Developing
 
