@@ -16,4 +16,4 @@ Learn more about it in [tiangolo.com - GitHub FastAPI](https://tiangolo.com/gith
 
 ## External Help
 
-External help is very much appreciated. There are many ways to [help](/docs/help-typer.md). ☕️
+External help is very much appreciated. There are many ways to [help](./help-typer.md). ☕️
